@@ -12,7 +12,10 @@ To write a python program to find the distance two 2 points
 ### PROGRAM:
   
 ```
-#Program to find the distance between two points.
+Developed by : M THEJESWARAN
+Reg no : 212223240168
+
+#Program to find the distance between two points
 x1,x2=10,6
 y1,y2=4,2
 import math
